@@ -74,6 +74,33 @@ Yours sincerely,
 Mina Rahmati.
 ```
 
+## Installation Guide
+
+### Prerequisites:
+- Python 3.11
+
+### Steps to Install:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [[repository_url]](https://github.com/meti-94/Telegram-Bot.git)
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd ApplyPro_bot
+   ```
+
+3. **Install Required Packages:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Program:**
+   ```bash
+   python main.py
+   ```
+
 ## Contribution
 
 Interested in extending ApplyPro_bot's capabilities? Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -84,4 +111,4 @@ Interested in extending ApplyPro_bot's capabilities? Pull requests are welcome. 
 
 ---
 
-This is a general README template for the project. You can add more sections like "Dependencies", "Installation", "Changelog", etc., as the project progresses.
+For any inquiries or feedback, please contact [mehdi_j94@outlook.com].
