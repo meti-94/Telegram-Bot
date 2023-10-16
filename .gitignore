@@ -1,0 +1,4 @@
+user_data.db
+__pycache__/
+modules/__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==20.5
+python-dotenv==1.0.0
+openai==0.28.0
+nest_asyncio==1.5.8
+tiktoken==0.5.1
