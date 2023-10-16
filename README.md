@@ -83,7 +83,7 @@ Mina Rahmati.
 
 1. **Clone the Repository:**
    ```bash
-   git clone [[repository_url]](https://github.com/meti-94/Telegram-Bot.git)
+   git clone https://github.com/meti-94/Telegram-Bot.git
    ```
 
 2. **Navigate to the Project Directory:**
